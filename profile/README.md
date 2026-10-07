@@ -1,7 +1,32 @@
-# MOASOFT AI
+<p align="center">
+  <img src="./assets/hero.png" alt="MOASOFT AI — Intelligence, built together. The home of AI projects developed by MOASOFT." width="100%" />
+</p>
 
-The official GitHub organization for AI projects developed by MOASOFT Corp.
+<p align="center">
+  <strong>The official GitHub organization for AI projects by MOASOFT Corp.</strong>
+</p>
 
-This organization is dedicated to managing the source code and projects for AI services and related software developed and operated by MOASOFT.
+<p align="center">
+  A shared space for the source code, projects, and collaboration<br />
+  behind AI services and software developed and operated by MOASOFT.
+</p>
 
-It serves as a central space for managing and collaborating on MOASOFT's AI-related projects, including AI services, applications, shared libraries, and development tools.
+<br />
+
+### Our focus
+
+| AI Services | Applications | Libraries & Tools |
+| :--- | :--- | :--- |
+| AI services developed and operated by MOASOFT. | Applications across MOASOFT's AI projects. | Shared libraries and development tools for AI projects. |
+
+<br />
+
+### One space. Connected projects.
+
+This organization brings together MOASOFT's AI-related repositories — a central place to manage projects, collaborate on source code, and share development resources.
+
+---
+
+<p align="center">
+  <sub><strong>MOASOFT AI</strong> &nbsp; / &nbsp; Services · Applications · Libraries · Development tools</sub>
+</p>
